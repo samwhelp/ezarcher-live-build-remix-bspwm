@@ -1,0 +1,21 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Bspwm
+##
+
+bspwm
+sxhkd
+xdo
+
+
+tint2
+picom
+rofi

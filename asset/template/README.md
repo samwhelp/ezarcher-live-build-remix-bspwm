@@ -1,6 +1,6 @@
 
 
-# Ezarcher / ISO Build / Hyprland
+# Ezarcher / ISO Build / Bspwm
 
 
 

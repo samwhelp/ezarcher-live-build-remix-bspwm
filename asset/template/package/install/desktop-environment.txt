@@ -16,6 +16,7 @@ sxhkd
 xdo
 
 
+feh
 tint2
 picom
 rofi

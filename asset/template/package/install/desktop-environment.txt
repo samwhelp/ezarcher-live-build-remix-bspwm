@@ -8,6 +8,13 @@
 
 
 ##
+## * https://wiki.archlinux.org/title/Bspwm
+##
+
+
+
+
+##
 ## ## Package / Desktop Environment / Bspwm
 ##
 

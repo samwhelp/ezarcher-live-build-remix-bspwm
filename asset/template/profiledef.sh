@@ -27,4 +27,12 @@ file_permissions=(
   ["/usr/local/bin/grubinstall.sh"]="0:0:755"
   ["/usr/local/bin/ezarch.bios"]="0:0:755"
   ["/usr/local/bin/ezarch.uefi"]="0:0:755"
+  ["/etc/skel/.config/bspwm/bspwmrc"]="0:0:755"
+  ["/etc/skel/.config/bspwm/bin/bspwm-up"]="0:0:755"
+  ["/etc/skel/.config/bspwm/bin/bspwm-up-applet"]="0:0:755"
+  ["/etc/skel/.config/bspwm/bin/bspwm-up-compositor"]="0:0:755"
+  ["/etc/skel/.config/bspwm/bin/bspwm-up-keybind"]="0:0:755"
+  ["/etc/skel/.config/bspwm/bin/bspwm-up-panel"]="0:0:755"
+  ["/etc/skel/.config/bspwm/bin/bspwm-up-wallpaper"]="0:0:755"
+  ["/etc/skel/.config/bspwm/bin/bspwm-up-xsettings"]="0:0:755"
 )
